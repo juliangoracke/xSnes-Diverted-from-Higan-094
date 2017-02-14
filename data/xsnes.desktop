@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=xSnes
+Comment=SNES emulator
+Exec=xSnes
+Icon=xSnes
+Terminal=false
+Type=Application
+Categories=Game;Emulator;
