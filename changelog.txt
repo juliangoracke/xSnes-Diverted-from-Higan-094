@@ -1,0 +1,12 @@
+xSnes Changelog:
+
+v1.01 WIP
+- Modified "About" information located in the UI Config-Advanced tab
+- The readme.txt and the changelog.txt are now two separate files.
+- 
+
+v1.00
+
+- Initial Release
+
+To be continued...

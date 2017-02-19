@@ -1,0 +1,3 @@
+system name:Super Nintendo
+  smp
+    rom name=ipl.rom size=64
