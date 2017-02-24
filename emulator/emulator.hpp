@@ -8,8 +8,8 @@ namespace Emulator {
   static const char FromVersion[] = "094";
   static const char Developer[] = "byuu";
   static const char Maintainer[] = "Julian Goracke";
-  static const char License[] = "GPLv3" ", CC BY-NC-ND 4.0 (Icon)";
-  static const char Website[] = "http://byuu.org/" ", https://github.com/juliangoracke";
+  static const char License[] = "GPLv3, CC BY-NC-ND 4.0 (Icon)";
+  static const char Website[] = "http://byuu.org/, https://github.com/juliangoracke";
 
   #if defined(PROFILE_XSNES)
   static const char Profile[] = "xSnes";
