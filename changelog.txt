@@ -3,7 +3,7 @@ xSnes Changelog:
 v1.01 WIP
 - Modified "About" information located in the UI Config-Advanced tab
 - The readme.txt and the changelog.txt are now two separate files.
-- Enabled "StartFullScreen" by defualt in "settings.bml", delete current
+- Enabled "StartFullScreen" by default in "settings.bml", delete current
   "settings.bml" = %AppData%\xSnes to take effect! Doesn't work the way
   it should directly from UI library. Drag & Drop "Cartridge Folder" 
   to xSnes.exe only. Added to give example of current state.
