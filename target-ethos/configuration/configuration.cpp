@@ -15,7 +15,7 @@ ConfigurationSettings::ConfigurationSettings() {
   video.append(video.saturation = 100, "Saturation");
   video.append(video.gamma = 100, "Gamma");
   video.append(video.luminance = 100, "Luminance");
-  video.append(video.startFullScreen = false, "StartFullScreen");
+  video.append(video.startFullScreen = true, "StartFullScreen");
   append(video, "Video");
 
   audio.append(audio.driver = ruby::audio.optimalDriver(), "Driver");
