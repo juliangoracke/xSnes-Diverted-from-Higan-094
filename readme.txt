@@ -237,8 +237,8 @@ Fixed the Tetris Attack flicking in VS CPU mode for the Performance profile. Tha
 "libRetro Wiki"
 They have a nice compatibility list for higan/bsnes testing. 
 
-"chrisbanks2"
-The icon used for xSnes is licensed under "CC BY-NC-ND 4.0" unmodified 
+"chrisbanks2 & Hopstarter"
+The icons used for xSnes is licensed under "CC BY-NC-ND 4.0" unmodified 
 design. The license txt is included with the source.../data
 
 
