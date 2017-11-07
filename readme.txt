@@ -146,8 +146,7 @@ you can choose the imported roms for both slots A & B.
 
 What is Missing: ???
 
-- Replace the game library golden diamond shape icon with a 
-  little Super Nintendo cart icon???
+- Blank the Super Game Boy game list prior to the Super Game Boy being launched???
 - Solve Memory Pak issues-BS-X Satellaview???
 - Auto Fullscreen when Game is launched from within game library GUI???
 - Gamepad input screensaver prevention??? When using the real  
