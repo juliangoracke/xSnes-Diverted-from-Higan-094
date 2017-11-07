@@ -7,6 +7,8 @@ v1.01 WIP
   "settings.bml" = %AppData%\xSnes to take effect! Doesn't work the way
   it should directly from UI library. Drag & Drop "Cartridge Folder" 
   to xSnes.exe only. Added to give example of current state.
+- Replaced the game library golden diamond shape icon with a little 
+  Super Nintendo controller icon.
 
 v1.00
 
